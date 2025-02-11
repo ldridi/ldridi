@@ -12,13 +12,18 @@
 <h2 align="center">
 About Me 🎈 
 </h2>
-Je suis un developpeur Senior PHP/SYMFONY, 8 ans d'experience, Passionné de développement Web et de nouvelles technologies, je suis particulièremment intéressé par les frameworks modernes mettant en avant les bonnes pratiques de code.
-J'apprécie le travail en équipe, injecter de l'énergie positive et mener à bien mes projets.
+Avec une solide expérience en développement FullStack PHP/Symfony et une expertise en migration de
+framework. Je suis capable de concevoir et de déployer des solutions robustes et innovantes. Mon
+engagement envers la qualité du code, le refactoring, et les pratiques de pair programming garantit des
+livraisons ables et maintenables. Ma capacité à travailler en méthodologie Scrum, à participer
+activement aux réunions fonctionnelles, et à assurer une coordination fonctionnelle efcace assure que
+les solutions techniques répondent parfaitement aux besoins métier. De plus, ma veille technologique
+continue me permet d'intégrer les dernières innovations dans les projets, assurant ainsi leur pertinence
+et leur performance à long terme.
 <p align="center">
 <img src="https://media.giphy.com/media/2A6wKpIDvj4X00VXky/giphy.gif" width="100px">  
 </p>
 Je crois fermement qu'un environnement d'équipe cohésif et solidaire est la clé pour fournir un bon logiciel et, à ce titre, j'accorde une grande valeur au travail collaboratif et à l'établissement de bonnes relations avec mes coéquipiers.
-
 </p>
 <center>
 <br>
