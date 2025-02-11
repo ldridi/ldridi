@@ -48,6 +48,8 @@ Je crois fermement qu'un environnement d'équipe cohésif et solidaire est la cl
 <a href="https://www.linkedin.com/in/lotfidev/" target="_blank">
     <img height="28" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
-
+<a href="https://dridi-lotfi.com/" target="_blank">
+    <img height="28" src="https://cdn2.iconfinder.com/data/icons/seo-web-4-1/128/Vigor_Domain-Internet-Network-WWW-256.png"/>
+</a>
 </p> 
   
